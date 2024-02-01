@@ -1,8 +1,6 @@
 1234
 123
-sub1 branch ~ing
-<<<<<<< HEAD
-sub2 branch ~ing
-=======
-sub1 branch ~ing2
->>>>>>> sub1
+456564564546
+55445
+6656566565656565
+8756fg
