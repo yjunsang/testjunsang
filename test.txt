@@ -1,4 +1,8 @@
 1234
 123
 sub1 branch ~ing
+<<<<<<< HEAD
 sub2 branch ~ing
+=======
+sub1 branch ~ing2
+>>>>>>> sub1
